@@ -1,5 +1,7 @@
 <img width="1012" height="718" alt="aethernodeS3view" src="https://github.com/user-attachments/assets/4a5db4b3-947f-40ff-b6ce-806dbb32cabb" />
 
+<img width="1280" height="964" alt="photo_2026-05-05_10-18-06" src="https://github.com/user-attachments/assets/7b497e7e-17ab-4aab-bbdb-d57c30db7a45" />
+
 A Reticulum Network stationary transport/discovery enabled node - RRNode. Designed around OrangePI Zero LTE, an ESP32 S3 and a CDEBYTE E22-XXXM33S LoRa radio. 
 
 ⚪ Built in power supply block, that takes from 18VDC to 53VDC, being designed for the nominal Power Over Ethernet(PoE) voltage of 48VDC, and provides 5V@6A to power the RNode and the SBC, running RNS. 
