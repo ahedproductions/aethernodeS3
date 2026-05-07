@@ -4,6 +4,8 @@
 
 A Reticulum Network stationary transport/discovery enabled node - RRNode. Designed around OrangePI Zero LTE, an ESP32 S3 and a CDEBYTE E22-XXXM33S LoRa radio. 
 
+A web flasher, that can flash the aethernodeS3 - https://rns.moscow/flasher or https://flasher.aetherlab.org
+
 ⚪ Built in power supply block, that takes from 18VDC to 53VDC, being designed for the nominal Power Over Ethernet(PoE) voltage of 48VDC, and provides 5V@6A to power the RNode and the SBC, running RNS. 
 
 ⚪ Up to 33dBm (2W) of output power.
